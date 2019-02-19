@@ -1,5 +1,5 @@
 ## FreeCodeCamp Project
-### Data Visualization Projects - Visualize Data with ScatterPlot Graph
+### Data Visualization Projects - Visualize Data with Heat Map
 Dataset link: https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/global-temperature.json <br/>
 **d3 js library v4 is used**
 ###### Sample user stories:
