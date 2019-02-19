@@ -1,0 +1,48 @@
+body  {
+
+    background-color:#ECEFF1;
+}
+
+svg {
+    margin-top:2em;
+    background-color: white;
+    margin-bottom:0em;
+}
+
+.main {
+    color:black;
+}
+
+.title  {
+    font-size:30px;
+    font-weight:bold;
+    margin-top:2em;
+}
+
+.tooltip {
+    position: absolute;
+    display: none;
+    min-width: 80px;
+    height: auto;
+    background: none repeat scroll 0 0 #ffffff !important;
+    border: 1px solid #6F257F;
+    padding: 14px;
+    /*text-align: center;*/
+}
+
+.legend {
+    fill:red;
+}
+
+.svglegend  {
+    fill:black;
+    background-color:white;
+    margin-top:0;
+}
+
+.cell {
+}
+
+.cell:hover {
+    stroke:black;
+}
